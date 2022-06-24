@@ -16,7 +16,6 @@
 	partnership with us 
 	you will never regret you did
 	we are glad to walk with you
-	looking forward to hearing from you
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
