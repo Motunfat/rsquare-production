@@ -15,6 +15,7 @@
 	with us, your dream future is ascertain. 
 	partnership with us 
 	you will never regret you did
+	i am blessed beyond curse
 	
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
